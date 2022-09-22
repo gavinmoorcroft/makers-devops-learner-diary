@@ -4,6 +4,6 @@
 
 I store all my notes in this location, seperated in to areas that they are related too.
 
-- [CLI](CLI.md)
-- [Git](GIT.md)
-- [Ruby](RUBY.md)
+- [CLI](cli.md)
+- [Git](git.md)
+- [Ruby](ruby.md)
