@@ -6,7 +6,24 @@ This will be the place where I keep notes and code snippets that I find useful, 
 
 ## Bio
 
-To Do
+***Name:***
+
+Gavin Moorcroft
+
+***Company:*** 
+
+Department for Work and Pension. 
+
+The British Government department responsible for welfare, pensions and child maintenance policy
+
+***What I currently do***
+
+I am a Test Automation Engineer
+
+***Reason I'm here:***
+
+To expand on my skills and open up new areas of career progression. 
+
 
 ## To Do
 

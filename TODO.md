@@ -8,3 +8,8 @@
 - [ ] Research Ruby data types and add them to [Ruby Notes](notes/Ruby/README.md)
 - [ ] write some stuff about method chaining
 - [ ] Write retrospective for [week 1](Diary/module1/README.md)   
+
+- [ ] In a few sentences, explain:
+- - What methods are
+- - How to use String methods
+- - How method chaining works
