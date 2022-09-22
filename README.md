@@ -2,7 +2,11 @@
 
 This is intended to be my Learning Diary as I move through the Makers DevOPs Apprenticeship. 
 
-This will be the place where I keep notes and code snippets that I find useful, as well as a place for me to track my module work. But more importantly, I will use this space to track my progress through evaluations, not just into my learning rate but also my emotional state, achievements, 
+This will be the place where I keep notes and code snippets that I find useful, as well as a place for me to track my module work. But more importantly, I will use this space to track my progress through evaluations, not just into my learning rate but also my emotional state, achievements and lows as I progress. 
+
+## Bio
+
+To Do
 
 ## To Do
 
