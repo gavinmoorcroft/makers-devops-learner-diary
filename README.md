@@ -8,21 +8,19 @@ This will be the place where I keep notes and code snippets that I find useful, 
 
 ***Name:***
 
-Gavin Moorcroft
+> Gavin Moorcroft
 
 ***Company:*** 
 
-Department for Work and Pension. 
+>Department for Work and Pension. The British Government department responsible for welfare, pensions and child maintenance policy
 
-The British Government department responsible for welfare, pensions and child maintenance policy
+***What I currently do:***
 
-***What I currently do***
-
-I am a Automation Test Engineer
+> I am a Automation Test Engineer
 
 ***Reason I'm here:***
 
-To expand on my skills and open up new areas of career progression. 
+> To expand on my skills and open up new areas of career progression. 
 
 
 ## To Do
