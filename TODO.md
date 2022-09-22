@@ -4,4 +4,4 @@
 - [ ] Add CLI commands to [CLI Notes](notes/CLI/README.md)
 - [ ] Research Ruby data types and add them to [Ruby Notes](notes/Ruby/README.md)
 - [ ] write some stuff about method chaining
-  
+- [ ] Write retrospective for week 1   
