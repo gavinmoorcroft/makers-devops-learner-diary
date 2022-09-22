@@ -22,14 +22,19 @@ This will be the place where I keep notes and code snippets that I find useful, 
 
 > To expand on my skills and open up new areas of career progression. 
 
+## Diary
+
+There is a number of folders in the [Diary folder](diary/README.md). Each of these folders will align with a single module and contain a diary of that module contianing a retrospectic on how I feel I dealt with that module, any evidence that I feel I should keep for it and anything else I feel is of use.
+
+## Challenges
+We are set a number of [challenges](diary/challenges.md). As I complete these challengers I will add them to the specific diary entry and collate them on then challenges page.
+
+## Notes
+My [Notes folder](notes/README.md) where I intend to keep any notes that I feel useful.
 
 ## To Do
 
 I have a [To Do list](TODO.md) that contains a lists of actions I need to complete. This list is aimed at keeping this learning diary up to date.
 
-## Diary
 
-There is a number of folders in the [Diary folder](Diary/README.md). Each of these folders will align with a single module and contain a diary of that module contianing a retrospectic on how I feel I dealt with that module, any evidence that I feel I should keep for it and anything else I feel is of use.
 
-## Notes
-My [Notes folder](notes/README.md) where I intend to keep any notes that I feel useful.
