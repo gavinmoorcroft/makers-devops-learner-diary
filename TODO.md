@@ -1,4 +1,4 @@
-<< [Back to Root](../README.md)
+<< [Back to Root](README.md)
 
 # Tasks I need to do for my Learning Diary
 

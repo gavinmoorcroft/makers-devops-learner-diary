@@ -1,3 +1,6 @@
+ << [Back to Root](../../README.md)
+  << [Back to Diary](../README.md)
+
 # Module 1
 
 Module 1 is split into three sections
