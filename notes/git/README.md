@@ -8,8 +8,7 @@ Stolen from Wikipedia, Git is free and open source software for distributed vers
 
 
 
-Git initgit status
-Git add .gitignore
-Git commit -m “Initial commit"
-Git status
-Git log
+Git init
+git status
+Git add .
+Git commit -m “hnkjlbkl;jb"
