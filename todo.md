@@ -9,6 +9,11 @@
 - [ ] write some stuff about method chaining
 - [ ] Write retrospective for [week 1](Diary/module1/README.md)   
 
+
+
+
+
+Reviews
 - [ ] In a few sentences, explain:
 - What methods are
 - How to use String methods
@@ -37,3 +42,33 @@
 - [ ] In a few sentences, describe:
 - The benefit of being able to define your own methods
 - The syntax / structure of a method
+
+- [ ] Please pause at this point to reflect and review your learning...
+- What did you find hard about the drills?
+- What did you find hard about the programming challenge?
+- What one thing would you like to learn more about?
+
+- [ ] In a few sentences, explain:
+- What an array is
+- How to create an array
+- How to add items to an array
+- How to access items in an array
+
+- [] In a few sentences, explain, in writing or to a peer:
+- What a hash is
+- How to create a hash
+- How to add key-value pairs to a hash
+- How to retrieve a value from a hash
+- How to retrieve all the keys from a hash
+- The use of one other Hash method that you experimented with
+
+Challenges
+- Add the method for concatenating family names to the challenge section
+- Add the method for working out seconds in 12 weeks in the challenge section
+
+- Password validator - index wasn't the best option to use, even though it worked
+
+- Take the atm code from the slack channel - 
+As a fun challenge, can you convert this program into a Class based system?
+Can you implement a number of 'tries' on your PIN?
+Can you implement more 'gets inputs for PIN entries', and exit the REPL if failed?
